@@ -1,0 +1,39 @@
+.searchingArea {
+    background: url('../../assets/library.jpg');
+    height: 110px;
+    padding: 20px 20px 25px;
+    display: flex;
+}
+
+.title {
+    font-size: 25px;
+    color: white;
+    text-shadow: black 1px 1px 1px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.input {
+    width: 280px;
+}
+
+.button {
+    margin-left: 5px;
+}
+
+.selectorTitle {
+    float: left;
+    color: white;
+    text-shadow: black 1px 1px 1px;
+    font-family: sans-serif;
+}
+
+.selector {
+    float: left;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+
+.selectorField {
+    margin-left: 5px;
+}

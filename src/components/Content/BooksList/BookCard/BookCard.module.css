@@ -1,0 +1,32 @@
+.bookCard {
+    width: 240px;
+    border: 1px solid dimgrey;
+    font-family: sans-serif;
+    padding: 10px;
+    margin: 5px;
+}
+
+.bookCover {
+    width: 130px;
+    margin-left: 55px;
+    margin-bottom: 10px;
+    box-shadow: grey 5px 5px 10px;
+    margin-top: 10px;
+}
+
+.category {
+    color: dimgrey;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.authorsList {
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0;
+}
